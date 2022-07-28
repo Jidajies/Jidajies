@@ -1,4 +1,4 @@
-Hi there, I’m Jinneth
+Hi there, I’m Jinneth.
 
 A Web Developer Junior and Electronics Tech who likes create websites and improve different programming languages. 
 
