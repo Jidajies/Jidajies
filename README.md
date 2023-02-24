@@ -3,7 +3,7 @@ Hi there, I’m Jinneth.
 A Web Developer Junior and Electronics Tech who likes create websites and improve different programming languages. 
 
 
-- 🌱 Currently learning SQL, SpringBoot, Microsoft Azure services and Salesforce.
+- 🌱 Currently learning Microsoft Business Central, Salesforce, SpringBoot and Ionic.
 - 📫 Reach me on Ln https://www.linkedin.com/in/jinneth-dayana-jimenez-espinosa-740723231
 - I'm a team worker who likes new challenges and learn for others!
 
